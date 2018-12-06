@@ -12,6 +12,9 @@ namespace EgeszSzamok
         {
             int a=0;
             int b=1;
+            Console.WriteLine("a=" + a);
+            Console.WriteLine("b=" + b);
+            Console.ReadKey();
         }
     }
 }
